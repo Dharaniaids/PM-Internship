@@ -1,0 +1,301 @@
+Student_ID,Name,Age,Education,Job_Status,Enrolled,Family_Income_LPA,Govt_Job,Skills,Preferred_Location,College_Tier,CGPA,Email,Eligibility_Status
+S001,Aarav Kumar,24,ITI,Employed Full-Time,No,9.9,No,SQL,Mumbai,Tier 1,8.5,s001@gmail.com,Eligible
+S002,Arjun Kumar,20,BCA,Employed Full-Time,No,2.4,No,Marketing,Bangalore,Tier 2,8.11,s002@gmail.com,Eligible
+S003,Divya Kumar,21,BBA,Employed Full-Time,No,7.4,Yes,Excel,Mumbai,Tier 1,8.04,s003@gmail.com,Eligible
+S004,Sneha Kumar,20,Diploma,Employed Full-Time,No,8.3,Yes,Excel,Pune,Tier 3,7.07,s004@gmail.com,Not Eligible
+S005,Meera Kumar,24,BBA,Unemployed,No,5.5,No,Power BI,Coimbatore,Tier 2,6.05,s005@gmail.com,Not Eligible
+S006,Ananya Kumar,21,B.Sc,Unemployed,No,2.2,No,AutoCAD,Mumbai,Tier 2,8.9,s006@gmail.com,Not Eligible
+S007,Ananya Kumar,24,B.Sc,Part-time,No,8.1,Yes,AutoCAD,Coimbatore,Tier 1,7.38,s007@gmail.com,Eligible
+S008,Divya Kumar,25,ITI,Part-time,No,4.6,No,SQL,Pune,Tier 3,8.35,s008@gmail.com,Eligible
+S009,Karthik Kumar,22,B.Com,Part-time,No,2.4,No,Excel,Pune,Tier 3,6.86,s009@gmail.com,Eligible
+S010,Arjun Kumar,23,ITI,Employed Full-Time,No,4.8,Yes,Marketing,Kolkata,Tier 1,7.62,s010@gmail.com,Eligible
+S011,Arjun Kumar,21,B.Tech,Part-time,No,2.7,Yes,Excel,Mumbai,Tier 2,7.23,s011@gmail.com,Not Eligible
+S012,Priya Kumar,25,Diploma,Part-time,No,4.5,No,Marketing,Kolkata,Tier 1,9.11,s012@gmail.com,Not Eligible
+S013,Karthik Kumar,25,B.Sc,Part-time,No,8.1,Yes,SQL,Coimbatore,Tier 3,7.27,s013@gmail.com,Eligible
+S014,Rohit Kumar,25,BBA,Unemployed,No,7.9,Yes,Marketing,Coimbatore,Tier 1,9.19,s014@gmail.com,Not Eligible
+S015,Ananya Kumar,22,BA,Employed Full-Time,No,8.9,No,Excel,Kolkata,Tier 2,7.71,s015@gmail.com,Eligible
+S016,Meera Kumar,22,BBA,Unemployed,No,8.5,Yes,Java,Bangalore,Tier 2,7.42,s016@gmail.com,Eligible
+S017,Rohit Kumar,24,B.Sc,Employed Full-Time,No,5.7,Yes,Excel,Mumbai,Tier 2,9.03,s017@gmail.com,Not Eligible
+S018,Ananya Kumar,24,BBA,Employed Full-Time,No,8.3,No,Excel,Chennai,Tier 1,8.95,s018@gmail.com,Not Eligible
+S019,Divya Kumar,22,BBA,Part-time,No,2.7,No,Power BI,Chennai,Tier 2,9.32,s019@gmail.com,Eligible
+S020,Arjun Kumar,25,B.Sc,Employed Full-Time,No,5.6,Yes,Power BI,Hyderabad,Tier 1,8.14,s020@gmail.com,Eligible
+S021,Meera Kumar,23,B.Sc,Part-time,No,3.7,No,Excel,Coimbatore,Tier 3,6.15,s021@gmail.com,Eligible
+S022,Divya Kumar,22,B.Com,Part-time,No,6.6,No,AutoCAD,Bangalore,Tier 2,7.34,s022@gmail.com,Eligible
+S023,Arjun Kumar,21,ITI,Unemployed,No,9.4,Yes,SQL,Kolkata,Tier 3,7.81,s023@gmail.com,Eligible
+S024,Aarav Kumar,21,B.Tech,Unemployed,No,8.4,No,Power BI,Coimbatore,Tier 2,7.21,s024@gmail.com,Not Eligible
+S025,Aarav Kumar,24,BBA,Unemployed,No,2.4,Yes,Power BI,Mumbai,Tier 2,6.65,s025@gmail.com,Not Eligible
+S026,Arjun Kumar,24,B.Sc,Part-time,No,2.8,No,Python,Kolkata,Tier 2,6.0,s026@gmail.com,Eligible
+S027,Arjun Kumar,25,BBA,Unemployed,No,4.1,No,SQL,Mumbai,Tier 2,6.36,s027@gmail.com,Eligible
+S028,Rohit Kumar,22,BA,Unemployed,No,2.7,No,Marketing,Hyderabad,Tier 1,6.93,s028@gmail.com,Not Eligible
+S029,Ananya Kumar,25,BBA,Unemployed,No,9.3,Yes,AutoCAD,Coimbatore,Tier 2,8.14,s029@gmail.com,Eligible
+S030,Karthik Kumar,24,BCA,Unemployed,No,4.6,Yes,Excel,Hyderabad,Tier 3,6.96,s030@gmail.com,Eligible
+S031,Meera Kumar,22,Diploma,Employed Full-Time,No,4.9,Yes,Marketing,Hyderabad,Tier 3,7.5,s031@gmail.com,Eligible
+S032,Ananya Kumar,23,B.Tech,Unemployed,No,8.1,No,Python,Bangalore,Tier 3,8.05,s032@gmail.com,Eligible
+S033,Aarav Kumar,25,B.Sc,Part-time,No,8.5,Yes,Marketing,Chennai,Tier 1,6.12,s033@gmail.com,Not Eligible
+S034,Meera Kumar,24,BBA,Unemployed,No,9.4,Yes,AutoCAD,Kolkata,Tier 1,8.29,s034@gmail.com,Not Eligible
+S035,Vikram Kumar,23,BBA,Unemployed,No,8.3,Yes,Power BI,Pune,Tier 3,6.78,s035@gmail.com,Eligible
+S036,Arjun Kumar,21,B.Sc,Part-time,No,4.5,No,Marketing,Bangalore,Tier 1,8.63,s036@gmail.com,Not Eligible
+S037,Ananya Kumar,23,B.Sc,Unemployed,No,4.5,No,Marketing,Bangalore,Tier 2,9.47,s037@gmail.com,Not Eligible
+S038,Sneha Kumar,24,B.Sc,Employed Full-Time,No,3.5,Yes,AutoCAD,Kolkata,Tier 3,9.23,s038@gmail.com,Not Eligible
+S039,Arjun Kumar,25,B.Sc,Unemployed,No,4.2,Yes,Excel,Mumbai,Tier 3,6.44,s039@gmail.com,Eligible
+S040,Rohit Kumar,25,B.Com,Unemployed,No,2.4,Yes,Python,Hyderabad,Tier 3,8.16,s040@gmail.com,Not Eligible
+S041,Priya Kumar,22,BCA,Employed Full-Time,No,2.7,Yes,Python,Kolkata,Tier 3,8.68,s041@gmail.com,Eligible
+S042,Meera Kumar,25,B.Com,Unemployed,No,2.1,Yes,Java,Coimbatore,Tier 1,7.1,s042@gmail.com,Eligible
+S043,Meera Kumar,21,B.Com,Employed Full-Time,No,8.1,Yes,AutoCAD,Coimbatore,Tier 3,8.9,s043@gmail.com,Not Eligible
+S044,Vikram Kumar,22,B.Tech,Unemployed,No,7.8,Yes,AutoCAD,Hyderabad,Tier 1,7.02,s044@gmail.com,Eligible
+S045,Vikram Kumar,22,BCA,Part-time,No,9.1,Yes,Excel,Mumbai,Tier 2,9.11,s045@gmail.com,Eligible
+S046,Aarav Kumar,25,B.Sc,Employed Full-Time,No,7.5,No,Marketing,Pune,Tier 3,6.74,s046@gmail.com,Eligible
+S047,Aarav Kumar,20,B.Com,Unemployed,No,5.2,Yes,AutoCAD,Mumbai,Tier 3,7.69,s047@gmail.com,Eligible
+S048,Arjun Kumar,21,BBA,Unemployed,No,7.2,No,Java,Kolkata,Tier 3,7.39,s048@gmail.com,Eligible
+S049,Priya Kumar,22,Diploma,Unemployed,No,3.2,No,Power BI,Mumbai,Tier 1,8.0,s049@gmail.com,Eligible
+S050,Aarav Kumar,24,B.Sc,Part-time,No,8.3,No,ML,Coimbatore,Tier 1,9.05,s050@gmail.com,Not Eligible
+S051,Priya Kumar,20,BCA,Employed Full-Time,No,4.8,Yes,Python,Kolkata,Tier 1,7.82,s051@gmail.com,Not Eligible
+S052,Divya Kumar,23,ITI,Employed Full-Time,No,7.3,No,Power BI,Pune,Tier 1,7.99,s052@gmail.com,Eligible
+S053,Priya Kumar,21,BA,Employed Full-Time,No,3.3,Yes,Power BI,Mumbai,Tier 1,8.8,s053@gmail.com,Not Eligible
+S054,Priya Kumar,20,B.Com,Employed Full-Time,No,2.3,Yes,Marketing,Kolkata,Tier 1,8.02,s054@gmail.com,Eligible
+S055,Priya Kumar,23,B.Sc,Unemployed,No,6.2,No,Java,Pune,Tier 3,8.87,s055@gmail.com,Not Eligible
+S056,Meera Kumar,24,BCA,Employed Full-Time,No,8.1,No,Excel,Chennai,Tier 2,6.72,s056@gmail.com,Eligible
+S057,Priya Kumar,24,B.Tech,Part-time,No,7.9,Yes,Java,Chennai,Tier 3,9.35,s057@gmail.com,Eligible
+S058,Aarav Kumar,21,BA,Unemployed,No,8.7,No,SQL,Chennai,Tier 2,7.8,s058@gmail.com,Not Eligible
+S059,Ananya Kumar,21,B.Com,Employed Full-Time,No,2.5,Yes,Python,Kolkata,Tier 2,8.47,s059@gmail.com,Eligible
+S060,Aarav Kumar,25,B.Tech,Employed Full-Time,No,8.9,Yes,AutoCAD,Pune,Tier 1,7.18,s060@gmail.com,Not Eligible
+S061,Ananya Kumar,21,B.Com,Employed Full-Time,No,2.3,No,SQL,Coimbatore,Tier 2,6.01,s061@gmail.com,Eligible
+S062,Vikram Kumar,22,B.Tech,Part-time,No,4.6,No,Excel,Mumbai,Tier 2,8.01,s062@gmail.com,Not Eligible
+S063,Arjun Kumar,21,ITI,Unemployed,No,7.9,Yes,Marketing,Pune,Tier 1,6.88,s063@gmail.com,Not Eligible
+S064,Meera Kumar,25,B.Tech,Unemployed,No,5.2,Yes,AutoCAD,Kolkata,Tier 3,7.62,s064@gmail.com,Not Eligible
+S065,Aarav Kumar,20,B.Com,Employed Full-Time,No,3.7,No,ML,Mumbai,Tier 3,6.29,s065@gmail.com,Eligible
+S066,Arjun Kumar,21,ITI,Unemployed,No,2.8,No,Java,Mumbai,Tier 3,9.04,s066@gmail.com,Not Eligible
+S067,Ananya Kumar,23,B.Tech,Part-time,No,8.7,No,Power BI,Kolkata,Tier 2,8.16,s067@gmail.com,Eligible
+S068,Divya Kumar,23,BA,Employed Full-Time,No,5.6,No,Power BI,Kolkata,Tier 1,8.9,s068@gmail.com,Not Eligible
+S069,Priya Kumar,22,Diploma,Unemployed,No,7.8,Yes,Marketing,Coimbatore,Tier 1,7.18,s069@gmail.com,Not Eligible
+S070,Sneha Kumar,23,ITI,Employed Full-Time,No,6.9,Yes,AutoCAD,Kolkata,Tier 2,8.06,s070@gmail.com,Not Eligible
+S071,Meera Kumar,20,B.Sc,Part-time,No,5.4,No,Marketing,Mumbai,Tier 2,7.01,s071@gmail.com,Eligible
+S072,Karthik Kumar,21,B.Com,Employed Full-Time,No,7.5,Yes,AutoCAD,Kolkata,Tier 2,9.4,s072@gmail.com,Eligible
+S073,Sneha Kumar,21,ITI,Employed Full-Time,No,4.5,Yes,Excel,Chennai,Tier 2,7.26,s073@gmail.com,Eligible
+S074,Aarav Kumar,22,BA,Unemployed,No,4.3,Yes,Marketing,Hyderabad,Tier 2,7.26,s074@gmail.com,Not Eligible
+S075,Ananya Kumar,25,B.Sc,Unemployed,No,2.2,No,Excel,Pune,Tier 1,8.53,s075@gmail.com,Not Eligible
+S076,Meera Kumar,25,Diploma,Employed Full-Time,No,6.3,No,AutoCAD,Mumbai,Tier 2,7.63,s076@gmail.com,Not Eligible
+S077,Priya Kumar,24,ITI,Employed Full-Time,No,3.5,Yes,ML,Kolkata,Tier 2,8.67,s077@gmail.com,Eligible
+S078,Divya Kumar,24,Diploma,Part-time,No,6.8,No,Power BI,Coimbatore,Tier 3,8.14,s078@gmail.com,Eligible
+S079,Divya Kumar,22,BA,Employed Full-Time,No,5.8,No,Python,Bangalore,Tier 1,6.37,s079@gmail.com,Not Eligible
+S080,Aarav Kumar,22,B.Sc,Unemployed,No,5.5,No,Java,Coimbatore,Tier 1,7.58,s080@gmail.com,Not Eligible
+S081,Karthik Kumar,20,B.Com,Part-time,No,6.5,No,AutoCAD,Hyderabad,Tier 2,6.27,s081@gmail.com,Eligible
+S082,Ananya Kumar,24,ITI,Part-time,No,7.3,No,Excel,Pune,Tier 3,8.74,s082@gmail.com,Not Eligible
+S083,Priya Kumar,24,B.Tech,Employed Full-Time,No,7.2,Yes,ML,Chennai,Tier 1,7.65,s083@gmail.com,Not Eligible
+S084,Rohit Kumar,23,B.Sc,Employed Full-Time,No,7.5,No,SQL,Chennai,Tier 2,8.78,s084@gmail.com,Not Eligible
+S085,Vikram Kumar,22,B.Tech,Unemployed,No,8.7,Yes,Java,Hyderabad,Tier 2,6.84,s085@gmail.com,Eligible
+S086,Vikram Kumar,20,B.Sc,Part-time,No,5.7,No,Python,Hyderabad,Tier 3,7.13,s086@gmail.com,Eligible
+S087,Ananya Kumar,22,ITI,Unemployed,No,9.8,No,Python,Pune,Tier 2,9.33,s087@gmail.com,Not Eligible
+S088,Vikram Kumar,24,BCA,Employed Full-Time,No,8.4,No,ML,Mumbai,Tier 2,8.39,s088@gmail.com,Not Eligible
+S089,Priya Kumar,20,BCA,Employed Full-Time,No,7.7,Yes,Marketing,Hyderabad,Tier 1,6.32,s089@gmail.com,Eligible
+S090,Sneha Kumar,22,BBA,Part-time,No,3.3,No,Excel,Mumbai,Tier 3,7.64,s090@gmail.com,Eligible
+S091,Sneha Kumar,21,ITI,Employed Full-Time,No,9.5,Yes,Excel,Pune,Tier 3,9.05,s091@gmail.com,Eligible
+S092,Arjun Kumar,25,Diploma,Employed Full-Time,No,3.7,Yes,SQL,Coimbatore,Tier 2,8.17,s092@gmail.com,Eligible
+S093,Ananya Kumar,23,B.Sc,Unemployed,No,8.1,No,Java,Bangalore,Tier 3,8.82,s093@gmail.com,Eligible
+S094,Divya Kumar,25,B.Com,Employed Full-Time,No,8.2,Yes,Python,Hyderabad,Tier 3,7.34,s094@gmail.com,Eligible
+S095,Arjun Kumar,20,BA,Part-time,No,8.5,Yes,Power BI,Chennai,Tier 3,7.25,s095@gmail.com,Eligible
+S096,Sneha Kumar,23,Diploma,Employed Full-Time,No,5.0,No,Excel,Kolkata,Tier 1,8.71,s096@gmail.com,Eligible
+S097,Karthik Kumar,23,BBA,Unemployed,No,3.2,No,SQL,Bangalore,Tier 2,8.34,s097@gmail.com,Not Eligible
+S098,Aarav Kumar,23,B.Sc,Unemployed,No,7.0,Yes,Python,Coimbatore,Tier 3,7.72,s098@gmail.com,Eligible
+S099,Rohit Kumar,22,BCA,Part-time,No,3.5,Yes,AutoCAD,Coimbatore,Tier 1,9.0,s099@gmail.com,Eligible
+S100,Vikram Kumar,21,B.Com,Employed Full-Time,No,4.8,Yes,Excel,Mumbai,Tier 3,9.4,s100@gmail.com,Not Eligible
+S101,Meera Kumar,21,BCA,Unemployed,No,5.7,No,SQL,Pune,Tier 2,6.53,s101@gmail.com,Eligible
+S102,Vikram Kumar,22,B.Com,Employed Full-Time,No,6.0,No,Java,Mumbai,Tier 3,7.92,s102@gmail.com,Not Eligible
+S103,Rohit Kumar,20,B.Com,Part-time,No,7.5,No,ML,Chennai,Tier 2,9.25,s103@gmail.com,Not Eligible
+S104,Ananya Kumar,25,B.Sc,Part-time,No,7.2,Yes,ML,Chennai,Tier 2,6.35,s104@gmail.com,Not Eligible
+S105,Arjun Kumar,21,B.Tech,Part-time,No,7.5,No,Python,Coimbatore,Tier 1,7.63,s105@gmail.com,Eligible
+S106,Rohit Kumar,20,B.Com,Unemployed,No,5.2,No,Java,Chennai,Tier 3,7.93,s106@gmail.com,Eligible
+S107,Sneha Kumar,24,ITI,Part-time,No,5.4,Yes,SQL,Hyderabad,Tier 3,9.13,s107@gmail.com,Not Eligible
+S108,Sneha Kumar,22,BBA,Part-time,No,9.3,Yes,Excel,Bangalore,Tier 2,7.37,s108@gmail.com,Not Eligible
+S109,Aarav Kumar,21,BBA,Employed Full-Time,No,2.8,Yes,Java,Kolkata,Tier 3,7.68,s109@gmail.com,Eligible
+S110,Vikram Kumar,23,Diploma,Part-time,No,7.9,No,Power BI,Mumbai,Tier 3,7.12,s110@gmail.com,Not Eligible
+S111,Arjun Kumar,21,B.Com,Employed Full-Time,No,6.1,No,ML,Bangalore,Tier 3,8.36,s111@gmail.com,Eligible
+S112,Rohit Kumar,22,Diploma,Part-time,No,8.4,Yes,Excel,Bangalore,Tier 3,6.01,s112@gmail.com,Eligible
+S113,Aarav Kumar,24,B.Com,Part-time,No,6.8,No,ML,Bangalore,Tier 3,7.37,s113@gmail.com,Not Eligible
+S114,Meera Kumar,23,B.Tech,Employed Full-Time,No,5.4,Yes,Java,Mumbai,Tier 1,8.92,s114@gmail.com,Eligible
+S115,Sneha Kumar,21,BA,Part-time,No,3.2,Yes,SQL,Mumbai,Tier 3,8.26,s115@gmail.com,Eligible
+S116,Sneha Kumar,20,ITI,Unemployed,No,6.5,No,Marketing,Chennai,Tier 2,6.23,s116@gmail.com,Not Eligible
+S117,Arjun Kumar,20,B.Com,Unemployed,No,2.4,No,Excel,Hyderabad,Tier 1,7.36,s117@gmail.com,Eligible
+S118,Meera Kumar,20,BBA,Part-time,No,2.3,No,Marketing,Coimbatore,Tier 2,6.38,s118@gmail.com,Eligible
+S119,Arjun Kumar,23,BA,Part-time,No,2.1,Yes,Excel,Bangalore,Tier 1,6.75,s119@gmail.com,Eligible
+S120,Vikram Kumar,25,BBA,Unemployed,No,8.7,No,Java,Pune,Tier 3,8.71,s120@gmail.com,Eligible
+S121,Priya Kumar,22,BBA,Employed Full-Time,No,6.0,Yes,Python,Bangalore,Tier 1,8.02,s121@gmail.com,Eligible
+S122,Priya Kumar,24,BBA,Part-time,No,9.3,Yes,Excel,Chennai,Tier 3,8.89,s122@gmail.com,Eligible
+S123,Ananya Kumar,24,Diploma,Part-time,No,9.3,Yes,Marketing,Coimbatore,Tier 2,7.25,s123@gmail.com,Eligible
+S124,Ananya Kumar,25,BCA,Employed Full-Time,No,5.6,Yes,ML,Kolkata,Tier 2,8.96,s124@gmail.com,Eligible
+S125,Meera Kumar,24,B.Tech,Employed Full-Time,No,9.0,No,Java,Chennai,Tier 3,9.17,s125@gmail.com,Eligible
+S126,Vikram Kumar,25,B.Sc,Unemployed,No,4.5,Yes,ML,Bangalore,Tier 2,6.01,s126@gmail.com,Eligible
+S127,Priya Kumar,22,Diploma,Part-time,No,2.6,Yes,AutoCAD,Hyderabad,Tier 3,8.73,s127@gmail.com,Not Eligible
+S128,Karthik Kumar,24,B.Com,Employed Full-Time,No,4.4,Yes,Excel,Bangalore,Tier 3,6.04,s128@gmail.com,Eligible
+S129,Meera Kumar,24,BCA,Part-time,No,5.3,No,Marketing,Kolkata,Tier 1,7.33,s129@gmail.com,Eligible
+S130,Priya Kumar,23,BBA,Unemployed,No,5.7,No,AutoCAD,Pune,Tier 3,7.74,s130@gmail.com,Not Eligible
+S131,Sneha Kumar,22,BCA,Employed Full-Time,No,2.1,Yes,Java,Kolkata,Tier 2,7.43,s131@gmail.com,Eligible
+S132,Aarav Kumar,25,B.Com,Part-time,No,5.0,Yes,Power BI,Hyderabad,Tier 2,7.56,s132@gmail.com,Eligible
+S133,Rohit Kumar,21,ITI,Part-time,No,8.6,Yes,Marketing,Bangalore,Tier 2,9.25,s133@gmail.com,Eligible
+S134,Vikram Kumar,20,B.Sc,Employed Full-Time,No,7.3,Yes,SQL,Coimbatore,Tier 2,7.91,s134@gmail.com,Not Eligible
+S135,Vikram Kumar,23,BA,Employed Full-Time,No,8.0,No,Power BI,Chennai,Tier 2,6.81,s135@gmail.com,Not Eligible
+S136,Arjun Kumar,21,B.Com,Unemployed,No,7.9,No,Power BI,Coimbatore,Tier 3,7.38,s136@gmail.com,Eligible
+S137,Arjun Kumar,25,ITI,Part-time,No,9.4,Yes,Marketing,Pune,Tier 2,6.23,s137@gmail.com,Eligible
+S138,Vikram Kumar,24,ITI,Unemployed,No,3.3,No,Marketing,Bangalore,Tier 3,6.9,s138@gmail.com,Eligible
+S139,Vikram Kumar,23,Diploma,Employed Full-Time,No,4.3,Yes,AutoCAD,Bangalore,Tier 3,9.2,s139@gmail.com,Eligible
+S140,Ananya Kumar,23,B.Com,Unemployed,No,9.8,Yes,ML,Coimbatore,Tier 3,6.69,s140@gmail.com,Not Eligible
+S141,Sneha Kumar,21,ITI,Part-time,No,7.8,No,ML,Chennai,Tier 3,8.68,s141@gmail.com,Eligible
+S142,Ananya Kumar,24,BCA,Unemployed,No,3.9,Yes,Excel,Coimbatore,Tier 2,9.01,s142@gmail.com,Not Eligible
+S143,Divya Kumar,23,BA,Part-time,No,6.6,Yes,SQL,Hyderabad,Tier 3,7.36,s143@gmail.com,Not Eligible
+S144,Rohit Kumar,24,B.Tech,Unemployed,No,2.4,Yes,Marketing,Kolkata,Tier 2,9.38,s144@gmail.com,Not Eligible
+S145,Arjun Kumar,21,Diploma,Employed Full-Time,No,8.4,Yes,Marketing,Chennai,Tier 2,8.01,s145@gmail.com,Not Eligible
+S146,Sneha Kumar,20,Diploma,Unemployed,No,6.2,No,Java,Hyderabad,Tier 1,7.89,s146@gmail.com,Not Eligible
+S147,Karthik Kumar,22,B.Sc,Unemployed,No,6.2,No,SQL,Pune,Tier 2,9.18,s147@gmail.com,Not Eligible
+S148,Aarav Kumar,24,B.Sc,Employed Full-Time,No,2.7,No,AutoCAD,Kolkata,Tier 1,6.32,s148@gmail.com,Not Eligible
+S149,Priya Kumar,23,BA,Part-time,No,7.1,Yes,Java,Mumbai,Tier 3,6.64,s149@gmail.com,Not Eligible
+S150,Karthik Kumar,24,B.Com,Part-time,No,8.0,No,AutoCAD,Mumbai,Tier 2,6.71,s150@gmail.com,Not Eligible
+S151,Rohit Kumar,24,ITI,Unemployed,No,2.7,Yes,Marketing,Pune,Tier 1,6.21,s151@gmail.com,Eligible
+S152,Divya Kumar,24,BBA,Unemployed,No,4.2,Yes,Python,Kolkata,Tier 3,6.12,s152@gmail.com,Eligible
+S153,Priya Kumar,21,Diploma,Unemployed,No,9.4,Yes,AutoCAD,Coimbatore,Tier 1,9.35,s153@gmail.com,Not Eligible
+S154,Ananya Kumar,25,ITI,Employed Full-Time,No,2.3,No,Power BI,Bangalore,Tier 2,7.8,s154@gmail.com,Eligible
+S155,Aarav Kumar,23,B.Com,Employed Full-Time,No,3.3,Yes,Power BI,Bangalore,Tier 3,7.55,s155@gmail.com,Eligible
+S156,Meera Kumar,21,BCA,Employed Full-Time,No,3.4,No,Python,Pune,Tier 3,8.69,s156@gmail.com,Not Eligible
+S157,Aarav Kumar,24,B.Com,Part-time,No,2.2,No,Power BI,Coimbatore,Tier 3,8.85,s157@gmail.com,Eligible
+S158,Priya Kumar,20,BCA,Unemployed,No,4.0,No,ML,Hyderabad,Tier 2,6.98,s158@gmail.com,Eligible
+S159,Vikram Kumar,20,BA,Employed Full-Time,No,5.4,No,Marketing,Kolkata,Tier 1,8.36,s159@gmail.com,Eligible
+S160,Rohit Kumar,22,BCA,Part-time,No,6.0,No,AutoCAD,Kolkata,Tier 2,9.29,s160@gmail.com,Eligible
+S161,Priya Kumar,23,ITI,Employed Full-Time,No,7.0,Yes,AutoCAD,Hyderabad,Tier 3,6.62,s161@gmail.com,Not Eligible
+S162,Divya Kumar,25,ITI,Part-time,No,8.9,Yes,Power BI,Hyderabad,Tier 1,6.6,s162@gmail.com,Not Eligible
+S163,Ananya Kumar,23,BA,Unemployed,No,8.6,No,Power BI,Coimbatore,Tier 1,7.76,s163@gmail.com,Eligible
+S164,Arjun Kumar,25,B.Tech,Unemployed,No,8.7,No,Marketing,Coimbatore,Tier 1,9.11,s164@gmail.com,Eligible
+S165,Aarav Kumar,25,B.Com,Unemployed,No,4.3,No,AutoCAD,Hyderabad,Tier 1,6.25,s165@gmail.com,Not Eligible
+S166,Divya Kumar,25,Diploma,Employed Full-Time,No,5.0,Yes,SQL,Bangalore,Tier 3,7.31,s166@gmail.com,Not Eligible
+S167,Priya Kumar,20,BBA,Unemployed,No,8.4,Yes,ML,Pune,Tier 3,9.47,s167@gmail.com,Eligible
+S168,Arjun Kumar,20,B.Sc,Unemployed,No,8.2,No,Power BI,Kolkata,Tier 3,6.55,s168@gmail.com,Not Eligible
+S169,Karthik Kumar,21,B.Sc,Unemployed,No,4.0,Yes,SQL,Pune,Tier 1,6.99,s169@gmail.com,Not Eligible
+S170,Aarav Kumar,22,Diploma,Employed Full-Time,No,3.0,No,SQL,Mumbai,Tier 2,9.43,s170@gmail.com,Not Eligible
+S171,Aarav Kumar,23,B.Com,Unemployed,No,9.8,Yes,Python,Mumbai,Tier 1,6.1,s171@gmail.com,Not Eligible
+S172,Divya Kumar,22,B.Sc,Part-time,No,9.4,Yes,ML,Chennai,Tier 2,6.89,s172@gmail.com,Not Eligible
+S173,Meera Kumar,20,ITI,Part-time,No,5.5,No,Java,Chennai,Tier 2,7.33,s173@gmail.com,Eligible
+S174,Sneha Kumar,23,BA,Employed Full-Time,No,2.7,No,Python,Mumbai,Tier 3,9.32,s174@gmail.com,Not Eligible
+S175,Divya Kumar,20,ITI,Unemployed,No,2.3,Yes,ML,Mumbai,Tier 3,8.37,s175@gmail.com,Eligible
+S176,Priya Kumar,25,BCA,Part-time,No,8.5,No,Marketing,Mumbai,Tier 1,9.13,s176@gmail.com,Eligible
+S177,Divya Kumar,23,Diploma,Employed Full-Time,No,9.9,Yes,ML,Hyderabad,Tier 3,7.67,s177@gmail.com,Not Eligible
+S178,Arjun Kumar,20,B.Sc,Employed Full-Time,No,6.3,Yes,Java,Mumbai,Tier 2,6.89,s178@gmail.com,Not Eligible
+S179,Divya Kumar,21,Diploma,Employed Full-Time,No,4.4,No,Java,Coimbatore,Tier 3,6.13,s179@gmail.com,Not Eligible
+S180,Priya Kumar,20,B.Sc,Part-time,No,2.0,No,SQL,Pune,Tier 2,9.16,s180@gmail.com,Eligible
+S181,Divya Kumar,25,B.Tech,Employed Full-Time,No,9.1,Yes,Marketing,Mumbai,Tier 2,7.44,s181@gmail.com,Not Eligible
+S182,Sneha Kumar,23,BBA,Part-time,No,9.8,Yes,SQL,Mumbai,Tier 1,6.3,s182@gmail.com,Eligible
+S183,Aarav Kumar,22,Diploma,Employed Full-Time,No,2.6,Yes,Python,Chennai,Tier 2,8.31,s183@gmail.com,Eligible
+S184,Vikram Kumar,24,BCA,Employed Full-Time,No,6.5,Yes,SQL,Pune,Tier 2,6.06,s184@gmail.com,Eligible
+S185,Meera Kumar,21,B.Com,Employed Full-Time,No,6.9,No,Power BI,Kolkata,Tier 2,9.49,s185@gmail.com,Not Eligible
+S186,Arjun Kumar,22,ITI,Part-time,No,3.8,No,ML,Pune,Tier 1,6.24,s186@gmail.com,Eligible
+S187,Aarav Kumar,20,BBA,Unemployed,No,6.2,No,Python,Kolkata,Tier 3,9.08,s187@gmail.com,Eligible
+S188,Meera Kumar,23,B.Com,Employed Full-Time,No,2.4,Yes,Power BI,Chennai,Tier 1,8.63,s188@gmail.com,Eligible
+S189,Ananya Kumar,25,B.Tech,Part-time,No,6.5,Yes,SQL,Coimbatore,Tier 3,6.82,s189@gmail.com,Not Eligible
+S190,Ananya Kumar,25,ITI,Part-time,No,7.5,No,SQL,Bangalore,Tier 1,9.12,s190@gmail.com,Not Eligible
+S191,Ananya Kumar,22,Diploma,Unemployed,No,4.7,No,Excel,Pune,Tier 1,8.6,s191@gmail.com,Not Eligible
+S192,Rohit Kumar,21,Diploma,Employed Full-Time,No,6.7,No,ML,Pune,Tier 2,7.74,s192@gmail.com,Not Eligible
+S193,Karthik Kumar,25,Diploma,Part-time,No,9.9,No,ML,Pune,Tier 1,6.22,s193@gmail.com,Eligible
+S194,Karthik Kumar,24,BBA,Unemployed,No,8.9,No,Excel,Hyderabad,Tier 3,6.43,s194@gmail.com,Eligible
+S195,Ananya Kumar,25,BBA,Part-time,No,8.0,Yes,Marketing,Bangalore,Tier 3,8.15,s195@gmail.com,Not Eligible
+S196,Sneha Kumar,25,B.Com,Part-time,No,7.4,No,ML,Bangalore,Tier 1,8.23,s196@gmail.com,Not Eligible
+S197,Vikram Kumar,25,B.Sc,Employed Full-Time,No,9.8,No,Java,Bangalore,Tier 3,7.98,s197@gmail.com,Eligible
+S198,Arjun Kumar,20,BA,Employed Full-Time,No,7.7,No,Java,Chennai,Tier 2,7.8,s198@gmail.com,Not Eligible
+S199,Arjun Kumar,22,Diploma,Unemployed,No,9.5,No,SQL,Kolkata,Tier 2,8.14,s199@gmail.com,Not Eligible
+S200,Ananya Kumar,24,ITI,Employed Full-Time,No,4.3,No,Power BI,Mumbai,Tier 1,6.93,s200@gmail.com,Eligible
+S201,Priya Kumar,22,ITI,Unemployed,No,8.0,Yes,AutoCAD,Hyderabad,Tier 1,8.6,s201@gmail.com,Not Eligible
+S202,Sneha Kumar,20,BCA,Part-time,No,7.3,No,SQL,Hyderabad,Tier 1,7.31,s202@gmail.com,Not Eligible
+S203,Karthik Kumar,24,B.Tech,Employed Full-Time,No,7.5,Yes,SQL,Coimbatore,Tier 1,6.76,s203@gmail.com,Not Eligible
+S204,Meera Kumar,24,BA,Employed Full-Time,No,4.2,Yes,ML,Chennai,Tier 1,6.39,s204@gmail.com,Eligible
+S205,Karthik Kumar,22,B.Sc,Unemployed,No,4.4,Yes,Excel,Kolkata,Tier 2,6.18,s205@gmail.com,Eligible
+S206,Sneha Kumar,25,BCA,Part-time,No,2.9,No,SQL,Bangalore,Tier 1,7.53,s206@gmail.com,Not Eligible
+S207,Priya Kumar,21,BBA,Unemployed,No,2.9,No,Power BI,Chennai,Tier 2,9.48,s207@gmail.com,Eligible
+S208,Rohit Kumar,21,BBA,Employed Full-Time,No,6.1,Yes,Python,Hyderabad,Tier 1,8.24,s208@gmail.com,Not Eligible
+S209,Arjun Kumar,22,B.Com,Part-time,No,6.2,No,Marketing,Chennai,Tier 2,8.47,s209@gmail.com,Eligible
+S210,Arjun Kumar,22,B.Sc,Unemployed,No,6.3,No,Java,Pune,Tier 3,8.28,s210@gmail.com,Not Eligible
+S211,Sneha Kumar,20,BBA,Part-time,No,8.7,Yes,Python,Hyderabad,Tier 1,8.61,s211@gmail.com,Not Eligible
+S212,Karthik Kumar,23,B.Tech,Unemployed,No,8.4,No,Marketing,Mumbai,Tier 1,9.47,s212@gmail.com,Not Eligible
+S213,Arjun Kumar,22,Diploma,Employed Full-Time,No,2.2,Yes,SQL,Hyderabad,Tier 3,7.93,s213@gmail.com,Not Eligible
+S214,Karthik Kumar,20,B.Com,Part-time,No,3.3,Yes,Power BI,Chennai,Tier 1,7.46,s214@gmail.com,Not Eligible
+S215,Vikram Kumar,23,B.Tech,Part-time,No,7.0,Yes,Marketing,Coimbatore,Tier 2,9.28,s215@gmail.com,Eligible
+S216,Arjun Kumar,22,B.Sc,Unemployed,No,9.1,Yes,Python,Chennai,Tier 1,7.32,s216@gmail.com,Not Eligible
+S217,Karthik Kumar,21,BCA,Employed Full-Time,No,6.5,Yes,Power BI,Bangalore,Tier 2,6.01,s217@gmail.com,Eligible
+S218,Rohit Kumar,21,B.Sc,Unemployed,No,7.3,No,Java,Coimbatore,Tier 1,7.64,s218@gmail.com,Eligible
+S219,Aarav Kumar,20,BA,Unemployed,No,7.0,No,Excel,Coimbatore,Tier 1,8.38,s219@gmail.com,Not Eligible
+S220,Sneha Kumar,21,B.Tech,Employed Full-Time,No,3.9,No,Marketing,Chennai,Tier 3,7.69,s220@gmail.com,Eligible
+S221,Sneha Kumar,22,BA,Unemployed,No,6.1,Yes,Java,Pune,Tier 1,7.08,s221@gmail.com,Not Eligible
+S222,Priya Kumar,25,ITI,Employed Full-Time,No,7.0,No,Power BI,Coimbatore,Tier 3,6.69,s222@gmail.com,Not Eligible
+S223,Ananya Kumar,24,B.Com,Part-time,No,2.8,No,Java,Kolkata,Tier 2,6.46,s223@gmail.com,Eligible
+S224,Priya Kumar,20,BCA,Unemployed,No,2.6,No,AutoCAD,Kolkata,Tier 2,8.8,s224@gmail.com,Not Eligible
+S225,Priya Kumar,24,B.Tech,Part-time,No,7.0,No,Marketing,Kolkata,Tier 1,8.26,s225@gmail.com,Eligible
+S226,Sneha Kumar,23,ITI,Part-time,No,6.9,Yes,Java,Kolkata,Tier 1,7.36,s226@gmail.com,Eligible
+S227,Aarav Kumar,21,BA,Employed Full-Time,No,8.8,No,Java,Bangalore,Tier 2,8.6,s227@gmail.com,Eligible
+S228,Karthik Kumar,24,BBA,Employed Full-Time,No,5.9,No,SQL,Kolkata,Tier 3,7.51,s228@gmail.com,Not Eligible
+S229,Sneha Kumar,23,BCA,Unemployed,No,7.6,Yes,Python,Pune,Tier 2,6.36,s229@gmail.com,Not Eligible
+S230,Arjun Kumar,22,ITI,Employed Full-Time,No,2.0,No,Excel,Coimbatore,Tier 2,8.45,s230@gmail.com,Eligible
+S231,Sneha Kumar,23,BCA,Unemployed,No,4.7,Yes,Power BI,Mumbai,Tier 3,9.4,s231@gmail.com,Not Eligible
+S232,Aarav Kumar,20,B.Tech,Unemployed,No,2.2,No,AutoCAD,Mumbai,Tier 3,7.74,s232@gmail.com,Eligible
+S233,Aarav Kumar,20,B.Sc,Part-time,No,7.1,No,Excel,Mumbai,Tier 3,8.8,s233@gmail.com,Eligible
+S234,Aarav Kumar,22,BBA,Employed Full-Time,No,6.5,No,Power BI,Pune,Tier 2,7.87,s234@gmail.com,Eligible
+S235,Divya Kumar,22,B.Sc,Employed Full-Time,No,4.6,No,ML,Bangalore,Tier 3,7.19,s235@gmail.com,Eligible
+S236,Karthik Kumar,22,B.Com,Employed Full-Time,No,5.8,No,ML,Kolkata,Tier 2,9.2,s236@gmail.com,Eligible
+S237,Priya Kumar,21,BBA,Unemployed,No,3.9,No,Power BI,Kolkata,Tier 1,6.47,s237@gmail.com,Not Eligible
+S238,Meera Kumar,20,B.Com,Part-time,No,3.1,No,Power BI,Mumbai,Tier 1,6.55,s238@gmail.com,Eligible
+S239,Sneha Kumar,25,B.Tech,Employed Full-Time,No,6.0,Yes,Python,Coimbatore,Tier 1,8.73,s239@gmail.com,Eligible
+S240,Vikram Kumar,20,Diploma,Part-time,No,3.2,No,Excel,Bangalore,Tier 1,7.31,s240@gmail.com,Eligible
+S241,Karthik Kumar,22,B.Tech,Employed Full-Time,No,4.4,Yes,Marketing,Chennai,Tier 2,7.0,s241@gmail.com,Not Eligible
+S242,Sneha Kumar,22,BCA,Unemployed,No,7.0,Yes,Java,Mumbai,Tier 2,6.25,s242@gmail.com,Not Eligible
+S243,Arjun Kumar,20,Diploma,Employed Full-Time,No,7.4,Yes,Python,Coimbatore,Tier 1,8.22,s243@gmail.com,Not Eligible
+S244,Rohit Kumar,23,BCA,Employed Full-Time,No,3.1,No,AutoCAD,Mumbai,Tier 3,6.62,s244@gmail.com,Eligible
+S245,Priya Kumar,22,BBA,Unemployed,No,9.2,No,AutoCAD,Pune,Tier 1,6.29,s245@gmail.com,Eligible
+S246,Karthik Kumar,23,B.Sc,Employed Full-Time,No,7.6,Yes,ML,Pune,Tier 2,6.28,s246@gmail.com,Not Eligible
+S247,Rohit Kumar,24,B.Com,Unemployed,No,4.7,No,Marketing,Mumbai,Tier 2,7.43,s247@gmail.com,Eligible
+S248,Meera Kumar,24,Diploma,Part-time,No,8.8,Yes,ML,Bangalore,Tier 1,7.66,s248@gmail.com,Not Eligible
+S249,Priya Kumar,25,Diploma,Unemployed,No,2.4,No,AutoCAD,Bangalore,Tier 1,6.08,s249@gmail.com,Eligible
+S250,Meera Kumar,22,B.Com,Unemployed,No,5.4,Yes,Java,Pune,Tier 2,7.53,s250@gmail.com,Eligible
+S251,Vikram Kumar,22,B.Com,Employed Full-Time,No,8.3,Yes,Java,Bangalore,Tier 3,9.31,s251@gmail.com,Eligible
+S252,Rohit Kumar,22,BA,Unemployed,No,6.8,Yes,Excel,Pune,Tier 1,9.2,s252@gmail.com,Eligible
+S253,Rohit Kumar,24,Diploma,Unemployed,No,4.0,Yes,Java,Pune,Tier 1,8.56,s253@gmail.com,Eligible
+S254,Sneha Kumar,24,BCA,Unemployed,No,3.2,No,Python,Hyderabad,Tier 2,7.23,s254@gmail.com,Not Eligible
+S255,Divya Kumar,25,ITI,Unemployed,No,8.0,Yes,ML,Hyderabad,Tier 3,6.8,s255@gmail.com,Eligible
+S256,Arjun Kumar,23,BCA,Part-time,No,6.5,No,ML,Mumbai,Tier 2,7.52,s256@gmail.com,Eligible
+S257,Karthik Kumar,24,B.Tech,Employed Full-Time,No,4.1,Yes,Java,Chennai,Tier 2,6.09,s257@gmail.com,Eligible
+S258,Arjun Kumar,22,Diploma,Part-time,No,2.6,Yes,AutoCAD,Chennai,Tier 1,6.4,s258@gmail.com,Eligible
+S259,Karthik Kumar,23,B.Com,Part-time,No,3.0,Yes,AutoCAD,Pune,Tier 2,7.64,s259@gmail.com,Not Eligible
+S260,Vikram Kumar,21,BCA,Unemployed,No,10.0,No,Power BI,Hyderabad,Tier 1,8.16,s260@gmail.com,Eligible
+S261,Aarav Kumar,23,ITI,Employed Full-Time,No,8.4,No,Java,Mumbai,Tier 1,9.16,s261@gmail.com,Not Eligible
+S262,Aarav Kumar,23,Diploma,Unemployed,No,8.0,Yes,Power BI,Hyderabad,Tier 2,6.25,s262@gmail.com,Not Eligible
+S263,Aarav Kumar,24,BBA,Part-time,No,5.7,No,ML,Bangalore,Tier 1,8.35,s263@gmail.com,Not Eligible
+S264,Aarav Kumar,21,B.Tech,Unemployed,No,7.0,No,AutoCAD,Pune,Tier 1,8.63,s264@gmail.com,Eligible
+S265,Rohit Kumar,20,B.Sc,Unemployed,No,9.5,Yes,Power BI,Chennai,Tier 1,7.39,s265@gmail.com,Eligible
+S266,Vikram Kumar,25,B.Com,Employed Full-Time,No,8.1,Yes,Power BI,Coimbatore,Tier 1,7.71,s266@gmail.com,Not Eligible
+S267,Arjun Kumar,22,BCA,Employed Full-Time,No,2.6,Yes,Marketing,Hyderabad,Tier 1,6.03,s267@gmail.com,Not Eligible
+S268,Vikram Kumar,24,Diploma,Employed Full-Time,No,2.6,Yes,AutoCAD,Bangalore,Tier 3,7.26,s268@gmail.com,Eligible
+S269,Meera Kumar,20,B.Tech,Unemployed,No,5.7,Yes,AutoCAD,Chennai,Tier 2,8.54,s269@gmail.com,Eligible
+S270,Sneha Kumar,23,B.Tech,Employed Full-Time,No,7.0,No,Python,Chennai,Tier 2,6.98,s270@gmail.com,Eligible
+S271,Meera Kumar,23,ITI,Unemployed,No,2.7,Yes,Excel,Kolkata,Tier 1,7.46,s271@gmail.com,Eligible
+S272,Meera Kumar,20,B.Sc,Unemployed,No,9.2,No,Excel,Bangalore,Tier 2,7.62,s272@gmail.com,Eligible
+S273,Ananya Kumar,21,Diploma,Unemployed,No,9.7,No,Python,Bangalore,Tier 2,8.32,s273@gmail.com,Not Eligible
+S274,Divya Kumar,25,BBA,Part-time,No,7.6,No,Excel,Hyderabad,Tier 1,7.1,s274@gmail.com,Not Eligible
+S275,Ananya Kumar,21,BCA,Unemployed,No,2.6,Yes,AutoCAD,Chennai,Tier 2,7.89,s275@gmail.com,Eligible
+S276,Meera Kumar,23,ITI,Unemployed,No,7.3,No,AutoCAD,Chennai,Tier 1,6.36,s276@gmail.com,Not Eligible
+S277,Karthik Kumar,22,BBA,Employed Full-Time,No,7.6,No,SQL,Chennai,Tier 2,7.24,s277@gmail.com,Eligible
+S278,Ananya Kumar,25,B.Tech,Unemployed,No,6.3,Yes,Java,Chennai,Tier 2,8.15,s278@gmail.com,Eligible
+S279,Divya Kumar,25,B.Sc,Unemployed,No,9.1,No,Excel,Coimbatore,Tier 3,6.44,s279@gmail.com,Eligible
+S280,Meera Kumar,24,BA,Unemployed,No,3.9,Yes,Marketing,Kolkata,Tier 2,7.81,s280@gmail.com,Eligible
+S281,Aarav Kumar,22,ITI,Unemployed,No,8.5,Yes,Java,Hyderabad,Tier 2,8.19,s281@gmail.com,Eligible
+S282,Meera Kumar,25,B.Com,Unemployed,No,9.9,No,Marketing,Pune,Tier 2,7.92,s282@gmail.com,Eligible
+S283,Arjun Kumar,24,BA,Part-time,No,5.6,Yes,ML,Bangalore,Tier 2,7.05,s283@gmail.com,Not Eligible
+S284,Priya Kumar,24,BBA,Employed Full-Time,No,8.3,No,Excel,Bangalore,Tier 1,6.91,s284@gmail.com,Not Eligible
+S285,Arjun Kumar,21,B.Com,Employed Full-Time,No,7.9,No,AutoCAD,Bangalore,Tier 3,8.69,s285@gmail.com,Not Eligible
+S286,Sneha Kumar,23,B.Com,Unemployed,No,5.4,No,Marketing,Chennai,Tier 3,7.72,s286@gmail.com,Not Eligible
+S287,Aarav Kumar,20,BBA,Employed Full-Time,No,4.5,No,SQL,Chennai,Tier 2,9.02,s287@gmail.com,Not Eligible
+S288,Sneha Kumar,21,BBA,Unemployed,No,4.9,No,AutoCAD,Pune,Tier 3,7.99,s288@gmail.com,Eligible
+S289,Aarav Kumar,25,BBA,Part-time,No,5.1,Yes,Python,Mumbai,Tier 3,6.88,s289@gmail.com,Not Eligible
+S290,Ananya Kumar,24,Diploma,Employed Full-Time,No,9.9,Yes,Excel,Hyderabad,Tier 1,6.04,s290@gmail.com,Eligible
+S291,Ananya Kumar,20,B.Com,Unemployed,No,5.1,No,Marketing,Kolkata,Tier 3,6.57,s291@gmail.com,Not Eligible
+S292,Aarav Kumar,22,BBA,Employed Full-Time,No,6.1,No,Marketing,Bangalore,Tier 3,6.15,s292@gmail.com,Eligible
+S293,Aarav Kumar,25,B.Tech,Part-time,No,5.0,No,SQL,Hyderabad,Tier 2,7.31,s293@gmail.com,Not Eligible
+S294,Aarav Kumar,25,BBA,Employed Full-Time,No,4.4,Yes,SQL,Mumbai,Tier 1,6.86,s294@gmail.com,Eligible
+S295,Karthik Kumar,25,BCA,Unemployed,No,3.9,Yes,Marketing,Hyderabad,Tier 2,6.34,s295@gmail.com,Not Eligible
+S296,Priya Kumar,22,B.Sc,Employed Full-Time,No,7.7,No,Power BI,Kolkata,Tier 3,7.77,s296@gmail.com,Eligible
+S297,Arjun Kumar,20,BBA,Part-time,No,3.8,Yes,SQL,Hyderabad,Tier 3,9.49,s297@gmail.com,Eligible
+S298,Aarav Kumar,25,B.Sc,Employed Full-Time,No,3.8,Yes,ML,Kolkata,Tier 2,9.29,s298@gmail.com,Not Eligible
+S299,Priya Kumar,20,B.Com,Employed Full-Time,No,3.7,No,Java,Hyderabad,Tier 2,7.81,s299@gmail.com,Eligible
+S300,Meera Kumar,22,B.Com,Unemployed,No,9.3,No,Python,Coimbatore,Tier 2,6.18,s300@gmail.com,Not Eligible

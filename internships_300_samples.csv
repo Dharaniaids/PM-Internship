@@ -1,0 +1,301 @@
+Internship_ID,Title,Domain,Company_Name,Location,Duration_Months,Skills_Required,Stipend,Eligibility
+I001,AI Intern,Healthcare,ITC,Hyderabad,4,ML,5000,Diploma
+I002,Design Intern,IT & Software Development,ITC,Bangalore,5,Power BI,5000,ITI
+I003,Data Analyst Intern,Banking,HDFC Bank,Mumbai,3,Power BI,5000,B.Com
+I004,Marketing Intern,Manufacturing,HDFC Bank,Pune,4,Java,5000,BBA
+I005,Data Analyst Intern,Banking,Tata Motors,Bangalore,3,Power BI,5000,B.Sc
+I006,Marketing Intern,Banking,Infosys,Kolkata,5,SQL,5000,ITI
+I007,Marketing Intern,Media,HDFC Bank,Mumbai,5,Python,5000,ITI
+I008,Data Analyst Intern,Manufacturing,Infosys,Chennai,5,Excel,5000,BA
+I009,Data Analyst Intern,Manufacturing,Infosys,Chennai,5,SQL,5000,Diploma
+I010,Design Intern,Banking,Infosys,Coimbatore,5,Power BI,5000,ITI
+I011,AI Intern,Banking,TCS,Chennai,6,SQL,5000,B.Com
+I012,AI Intern,Healthcare,Tata Motors,Kolkata,4,Python,5000,B.Sc
+I013,Marketing Intern,IT & Software Development,Infosys,Mumbai,5,Power BI,5000,BBA
+I014,AI Intern,Healthcare,HDFC Bank,Kolkata,4,Java,5000,Diploma
+I015,Data Analyst Intern,Banking,Infosys,Hyderabad,6,Power BI,5000,BBA
+I016,Finance Intern,Banking,Infosys,Coimbatore,5,ML,5000,BA
+I017,AI Intern,Media,Tata Motors,Bangalore,6,ML,5000,BA
+I018,AI Intern,Media,Byju’s,Coimbatore,6,Excel,5000,B.Sc
+I019,Design Intern,Healthcare,HDFC Bank,Pune,3,Java,5000,ITI
+I020,Data Analyst Intern,Manufacturing,Tata Motors,Mumbai,3,Marketing,5000,B.Sc
+I021,Data Analyst Intern,IT & Software Development,Byju’s,Bangalore,5,Java,5000,Diploma
+I022,AI Intern,Banking,ITC,Kolkata,4,AutoCAD,5000,ITI
+I023,AI Intern,Manufacturing,TCS,Coimbatore,4,SQL,5000,ITI
+I024,Data Analyst Intern,Manufacturing,HDFC Bank,Bangalore,3,ML,5000,B.Sc
+I025,Design Intern,Manufacturing,HDFC Bank,Bangalore,6,AutoCAD,5000,Diploma
+I026,Design Intern,Media,TCS,Hyderabad,3,ML,5000,ITI
+I027,AI Intern,IT & Software Development,Infosys,Coimbatore,3,AutoCAD,5000,ITI
+I028,Finance Intern,Manufacturing,TCS,Coimbatore,6,Java,5000,ITI
+I029,Data Analyst Intern,Manufacturing,Byju’s,Pune,3,Marketing,5000,Diploma
+I030,Finance Intern,Manufacturing,Byju’s,Chennai,4,Python,5000,B.Sc
+I031,AI Intern,Media,Tata Motors,Chennai,4,Power BI,5000,B.Com
+I032,Marketing Intern,IT & Software Development,HDFC Bank,Chennai,3,Python,5000,ITI
+I033,AI Intern,Manufacturing,HDFC Bank,Kolkata,5,Power BI,5000,ITI
+I034,AI Intern,Media,TCS,Kolkata,3,SQL,5000,Diploma
+I035,Data Analyst Intern,Manufacturing,TCS,Bangalore,6,Java,5000,BA
+I036,Design Intern,Banking,Infosys,Bangalore,3,Excel,5000,B.Sc
+I037,Design Intern,IT & Software Development,Tata Motors,Hyderabad,4,Power BI,5000,B.Sc
+I038,Data Analyst Intern,Manufacturing,HDFC Bank,Hyderabad,6,AutoCAD,5000,BA
+I039,Design Intern,Manufacturing,Byju’s,Chennai,6,Python,5000,BCA
+I040,Data Analyst Intern,Media,Byju’s,Bangalore,5,Excel,5000,BA
+I041,Data Analyst Intern,Healthcare,TCS,Coimbatore,5,SQL,5000,BCA
+I042,Data Analyst Intern,Banking,Infosys,Mumbai,5,Java,5000,B.Com
+I043,Finance Intern,Banking,Tata Motors,Bangalore,5,Excel,5000,ITI
+I044,Data Analyst Intern,IT & Software Development,TCS,Chennai,4,AutoCAD,5000,ITI
+I045,Data Analyst Intern,Banking,HDFC Bank,Coimbatore,5,Java,5000,BA
+I046,Data Analyst Intern,Manufacturing,TCS,Coimbatore,5,Python,5000,BCA
+I047,Data Analyst Intern,Banking,Infosys,Hyderabad,6,Java,5000,BBA
+I048,Finance Intern,Healthcare,ITC,Kolkata,5,Python,5000,BCA
+I049,Marketing Intern,Healthcare,Tata Motors,Chennai,3,Marketing,5000,BCA
+I050,Data Analyst Intern,Banking,Infosys,Mumbai,5,Java,5000,BCA
+I051,Marketing Intern,Banking,Tata Motors,Chennai,4,ML,5000,BCA
+I052,AI Intern,Manufacturing,HDFC Bank,Mumbai,3,AutoCAD,5000,B.Com
+I053,Design Intern,Media,HDFC Bank,Pune,5,Java,5000,BCA
+I054,Marketing Intern,Media,Byju’s,Bangalore,5,Marketing,5000,BBA
+I055,Finance Intern,Healthcare,HDFC Bank,Kolkata,6,Java,5000,B.Com
+I056,Finance Intern,Manufacturing,Byju’s,Chennai,5,SQL,5000,BA
+I057,Finance Intern,Banking,Byju’s,Kolkata,3,Marketing,5000,BA
+I058,AI Intern,Healthcare,Infosys,Bangalore,4,AutoCAD,5000,BA
+I059,Design Intern,IT & Software Development,Byju’s,Bangalore,4,Marketing,5000,BA
+I060,Design Intern,Manufacturing,Byju’s,Mumbai,5,Marketing,5000,B.Com
+I061,Data Analyst Intern,Banking,Infosys,Coimbatore,5,Power BI,5000,Diploma
+I062,Data Analyst Intern,Banking,TCS,Coimbatore,4,Excel,5000,BBA
+I063,Data Analyst Intern,Media,Byju’s,Coimbatore,4,Excel,5000,BA
+I064,Finance Intern,Banking,Infosys,Chennai,5,Marketing,5000,BCA
+I065,Design Intern,Manufacturing,ITC,Pune,6,SQL,5000,B.Com
+I066,AI Intern,Banking,HDFC Bank,Kolkata,6,Excel,5000,ITI
+I067,Marketing Intern,IT & Software Development,ITC,Kolkata,3,Excel,5000,BA
+I068,Finance Intern,Manufacturing,TCS,Coimbatore,4,ML,5000,B.Com
+I069,Design Intern,Media,ITC,Hyderabad,4,ML,5000,B.Com
+I070,Marketing Intern,Manufacturing,TCS,Kolkata,6,ML,5000,B.Com
+I071,Design Intern,Healthcare,TCS,Coimbatore,4,ML,5000,BCA
+I072,Marketing Intern,Banking,Infosys,Chennai,4,Java,5000,Diploma
+I073,Design Intern,Banking,Infosys,Coimbatore,6,Marketing,5000,BBA
+I074,Data Analyst Intern,Media,ITC,Bangalore,5,Marketing,5000,B.Sc
+I075,AI Intern,Manufacturing,Tata Motors,Pune,6,AutoCAD,5000,B.Com
+I076,AI Intern,Healthcare,TCS,Chennai,6,Python,5000,B.Com
+I077,Finance Intern,IT & Software Development,Byju’s,Kolkata,6,Java,5000,B.Com
+I078,Finance Intern,IT & Software Development,Tata Motors,Kolkata,5,Python,5000,B.Sc
+I079,Marketing Intern,IT & Software Development,Byju’s,Pune,5,Java,5000,BBA
+I080,Finance Intern,Media,HDFC Bank,Hyderabad,3,Excel,5000,BBA
+I081,Design Intern,Manufacturing,ITC,Mumbai,3,Java,5000,ITI
+I082,Finance Intern,Media,TCS,Hyderabad,5,SQL,5000,B.Sc
+I083,Data Analyst Intern,Media,TCS,Chennai,6,Marketing,5000,BCA
+I084,Design Intern,Banking,HDFC Bank,Hyderabad,4,Power BI,5000,B.Com
+I085,Design Intern,Banking,HDFC Bank,Chennai,5,Power BI,5000,Diploma
+I086,Marketing Intern,Media,Infosys,Bangalore,5,SQL,5000,BA
+I087,Design Intern,Healthcare,TCS,Chennai,6,ML,5000,BCA
+I088,Data Analyst Intern,Manufacturing,Tata Motors,Pune,5,Marketing,5000,ITI
+I089,Design Intern,Media,ITC,Kolkata,3,Marketing,5000,ITI
+I090,Finance Intern,Manufacturing,HDFC Bank,Hyderabad,4,Marketing,5000,B.Com
+I091,AI Intern,Healthcare,TCS,Mumbai,6,AutoCAD,5000,ITI
+I092,Design Intern,Media,Byju’s,Kolkata,5,Python,5000,B.Com
+I093,AI Intern,Media,HDFC Bank,Hyderabad,3,Power BI,5000,BCA
+I094,Design Intern,Manufacturing,Infosys,Bangalore,4,Marketing,5000,Diploma
+I095,Finance Intern,IT & Software Development,Infosys,Pune,6,ML,5000,BA
+I096,Marketing Intern,Media,TCS,Kolkata,3,Marketing,5000,BCA
+I097,Marketing Intern,Healthcare,Tata Motors,Pune,6,Excel,5000,BA
+I098,Marketing Intern,Banking,HDFC Bank,Bangalore,6,Python,5000,BBA
+I099,Design Intern,Media,Byju’s,Hyderabad,5,Excel,5000,BCA
+I100,Design Intern,Manufacturing,Infosys,Bangalore,3,SQL,5000,ITI
+I101,Design Intern,Manufacturing,Infosys,Kolkata,5,ML,5000,Diploma
+I102,Marketing Intern,Manufacturing,Tata Motors,Mumbai,4,Excel,5000,ITI
+I103,AI Intern,IT & Software Development,ITC,Bangalore,6,SQL,5000,B.Sc
+I104,AI Intern,Media,TCS,Kolkata,6,Python,5000,B.Sc
+I105,Finance Intern,Manufacturing,TCS,Chennai,3,Power BI,5000,ITI
+I106,AI Intern,Banking,Byju’s,Chennai,6,ML,5000,BA
+I107,AI Intern,Manufacturing,HDFC Bank,Pune,3,ML,5000,B.Sc
+I108,Design Intern,Media,HDFC Bank,Coimbatore,4,Python,5000,ITI
+I109,Marketing Intern,Healthcare,Infosys,Hyderabad,5,ML,5000,Diploma
+I110,Data Analyst Intern,Manufacturing,Byju’s,Bangalore,6,Java,5000,Diploma
+I111,Data Analyst Intern,Manufacturing,TCS,Chennai,3,Marketing,5000,BCA
+I112,Marketing Intern,Manufacturing,Byju’s,Mumbai,3,Python,5000,BBA
+I113,Design Intern,IT & Software Development,ITC,Bangalore,6,SQL,5000,BCA
+I114,Finance Intern,Manufacturing,Byju’s,Chennai,3,Marketing,5000,B.Sc
+I115,Data Analyst Intern,Healthcare,Byju’s,Bangalore,6,ML,5000,ITI
+I116,Design Intern,Manufacturing,Tata Motors,Coimbatore,6,Marketing,5000,B.Sc
+I117,Design Intern,IT & Software Development,HDFC Bank,Chennai,5,SQL,5000,B.Sc
+I118,Design Intern,Banking,Infosys,Pune,6,Python,5000,B.Sc
+I119,Finance Intern,Manufacturing,Byju’s,Hyderabad,6,Python,5000,BA
+I120,AI Intern,Healthcare,HDFC Bank,Coimbatore,5,Java,5000,B.Com
+I121,AI Intern,Manufacturing,Tata Motors,Bangalore,5,AutoCAD,5000,ITI
+I122,Finance Intern,Healthcare,Infosys,Kolkata,4,AutoCAD,5000,BCA
+I123,Data Analyst Intern,Media,Infosys,Mumbai,5,SQL,5000,Diploma
+I124,Marketing Intern,Manufacturing,Infosys,Bangalore,5,ML,5000,ITI
+I125,Design Intern,Manufacturing,Byju’s,Chennai,4,Python,5000,Diploma
+I126,AI Intern,Healthcare,HDFC Bank,Hyderabad,5,AutoCAD,5000,Diploma
+I127,Data Analyst Intern,Banking,HDFC Bank,Pune,3,ML,5000,BBA
+I128,Marketing Intern,Manufacturing,Tata Motors,Kolkata,3,Marketing,5000,B.Sc
+I129,Design Intern,Banking,Byju’s,Hyderabad,4,Python,5000,Diploma
+I130,Marketing Intern,Manufacturing,Infosys,Pune,4,Java,5000,B.Sc
+I131,Design Intern,Banking,Infosys,Coimbatore,6,Marketing,5000,Diploma
+I132,Design Intern,Manufacturing,ITC,Mumbai,6,ML,5000,B.Sc
+I133,Marketing Intern,Manufacturing,TCS,Hyderabad,6,AutoCAD,5000,Diploma
+I134,Data Analyst Intern,Banking,ITC,Bangalore,5,Excel,5000,ITI
+I135,AI Intern,Media,TCS,Pune,4,ML,5000,ITI
+I136,Data Analyst Intern,Healthcare,TCS,Pune,4,Excel,5000,BA
+I137,Data Analyst Intern,Healthcare,Tata Motors,Hyderabad,3,ML,5000,B.Com
+I138,Marketing Intern,Healthcare,TCS,Pune,5,SQL,5000,BCA
+I139,Data Analyst Intern,Manufacturing,Infosys,Bangalore,6,AutoCAD,5000,BA
+I140,Data Analyst Intern,Manufacturing,HDFC Bank,Bangalore,3,Marketing,5000,BA
+I141,Marketing Intern,Manufacturing,TCS,Hyderabad,4,SQL,5000,B.Sc
+I142,AI Intern,Manufacturing,Infosys,Hyderabad,4,Python,5000,BA
+I143,Finance Intern,Manufacturing,Byju’s,Bangalore,5,Marketing,5000,B.Com
+I144,Finance Intern,Media,HDFC Bank,Hyderabad,6,Python,5000,B.Sc
+I145,Marketing Intern,Healthcare,Infosys,Hyderabad,6,Java,5000,BCA
+I146,Data Analyst Intern,Media,ITC,Pune,4,Marketing,5000,BBA
+I147,Design Intern,Banking,Tata Motors,Chennai,4,AutoCAD,5000,B.Com
+I148,Design Intern,Banking,TCS,Bangalore,4,AutoCAD,5000,BA
+I149,Data Analyst Intern,IT & Software Development,ITC,Bangalore,4,Python,5000,Diploma
+I150,Design Intern,IT & Software Development,TCS,Hyderabad,5,ML,5000,B.Sc
+I151,Design Intern,Media,TCS,Coimbatore,4,Power BI,5000,BCA
+I152,Design Intern,Manufacturing,TCS,Chennai,3,ML,5000,B.Com
+I153,AI Intern,Banking,Infosys,Kolkata,6,Marketing,5000,Diploma
+I154,Data Analyst Intern,Healthcare,TCS,Hyderabad,3,Marketing,5000,ITI
+I155,AI Intern,Banking,Infosys,Chennai,3,Python,5000,BA
+I156,AI Intern,IT & Software Development,HDFC Bank,Chennai,3,Power BI,5000,Diploma
+I157,Finance Intern,Media,TCS,Pune,4,AutoCAD,5000,B.Sc
+I158,AI Intern,Manufacturing,HDFC Bank,Pune,6,ML,5000,B.Com
+I159,Finance Intern,Manufacturing,HDFC Bank,Kolkata,5,Marketing,5000,B.Com
+I160,Design Intern,Media,Byju’s,Mumbai,6,Java,5000,BA
+I161,Finance Intern,Media,TCS,Hyderabad,5,Java,5000,B.Com
+I162,Data Analyst Intern,Manufacturing,Tata Motors,Coimbatore,6,ML,5000,BBA
+I163,Design Intern,Media,TCS,Pune,4,Excel,5000,BBA
+I164,Data Analyst Intern,Media,Byju’s,Coimbatore,6,Power BI,5000,BA
+I165,Finance Intern,Media,HDFC Bank,Kolkata,4,AutoCAD,5000,ITI
+I166,Marketing Intern,Banking,TCS,Kolkata,6,Python,5000,B.Sc
+I167,AI Intern,Media,TCS,Chennai,6,Java,5000,BA
+I168,Finance Intern,Media,Byju’s,Coimbatore,5,Java,5000,B.Sc
+I169,Design Intern,IT & Software Development,Byju’s,Mumbai,5,ML,5000,BBA
+I170,Finance Intern,IT & Software Development,Tata Motors,Hyderabad,3,Excel,5000,B.Sc
+I171,Design Intern,Media,HDFC Bank,Bangalore,6,ML,5000,ITI
+I172,Data Analyst Intern,Healthcare,ITC,Mumbai,5,Marketing,5000,BA
+I173,Design Intern,IT & Software Development,Infosys,Chennai,6,ML,5000,BCA
+I174,Marketing Intern,IT & Software Development,Tata Motors,Coimbatore,5,Marketing,5000,B.Sc
+I175,Marketing Intern,Banking,Tata Motors,Bangalore,3,Marketing,5000,Diploma
+I176,Marketing Intern,Manufacturing,TCS,Mumbai,4,Excel,5000,BCA
+I177,AI Intern,Banking,HDFC Bank,Coimbatore,6,Java,5000,Diploma
+I178,Design Intern,Banking,Infosys,Chennai,5,Excel,5000,BCA
+I179,Data Analyst Intern,Manufacturing,ITC,Hyderabad,6,Java,5000,BA
+I180,Marketing Intern,Media,Byju’s,Kolkata,4,ML,5000,ITI
+I181,AI Intern,Media,TCS,Bangalore,4,ML,5000,BCA
+I182,Marketing Intern,Healthcare,HDFC Bank,Coimbatore,5,SQL,5000,B.Sc
+I183,AI Intern,IT & Software Development,Tata Motors,Chennai,3,Marketing,5000,ITI
+I184,Data Analyst Intern,Healthcare,Infosys,Chennai,3,Java,5000,B.Com
+I185,AI Intern,IT & Software Development,Tata Motors,Hyderabad,5,Marketing,5000,BBA
+I186,Marketing Intern,Banking,Infosys,Bangalore,5,Java,5000,BBA
+I187,Finance Intern,Banking,Byju’s,Chennai,3,Java,5000,ITI
+I188,AI Intern,Manufacturing,ITC,Bangalore,3,Excel,5000,ITI
+I189,Data Analyst Intern,Banking,ITC,Mumbai,3,Marketing,5000,B.Sc
+I190,Marketing Intern,IT & Software Development,Byju’s,Chennai,6,Excel,5000,ITI
+I191,Data Analyst Intern,Manufacturing,Byju’s,Coimbatore,3,AutoCAD,5000,BA
+I192,Finance Intern,Media,HDFC Bank,Kolkata,4,Marketing,5000,Diploma
+I193,Design Intern,Manufacturing,Infosys,Hyderabad,5,Python,5000,BCA
+I194,AI Intern,Media,Tata Motors,Bangalore,3,Python,5000,B.Com
+I195,Data Analyst Intern,IT & Software Development,Infosys,Chennai,5,Marketing,5000,B.Sc
+I196,Marketing Intern,IT & Software Development,Tata Motors,Hyderabad,3,Java,5000,Diploma
+I197,Marketing Intern,Manufacturing,HDFC Bank,Kolkata,4,Java,5000,B.Com
+I198,AI Intern,Healthcare,Byju’s,Bangalore,3,Java,5000,BA
+I199,Design Intern,Banking,Tata Motors,Kolkata,6,Excel,5000,B.Com
+I200,Data Analyst Intern,IT & Software Development,Tata Motors,Kolkata,3,AutoCAD,5000,B.Sc
+I201,Finance Intern,IT & Software Development,ITC,Chennai,6,ML,5000,BBA
+I202,Finance Intern,Manufacturing,Infosys,Kolkata,3,AutoCAD,5000,BA
+I203,Design Intern,Banking,Tata Motors,Coimbatore,4,ML,5000,B.Com
+I204,Design Intern,IT & Software Development,Byju’s,Bangalore,3,Power BI,5000,B.Com
+I205,Finance Intern,Media,HDFC Bank,Kolkata,4,Java,5000,ITI
+I206,Marketing Intern,Manufacturing,Tata Motors,Kolkata,6,Marketing,5000,B.Com
+I207,Marketing Intern,Media,ITC,Chennai,4,Marketing,5000,B.Sc
+I208,Marketing Intern,IT & Software Development,Byju’s,Coimbatore,3,Marketing,5000,BCA
+I209,Marketing Intern,Manufacturing,HDFC Bank,Chennai,4,Java,5000,BCA
+I210,AI Intern,Healthcare,Byju’s,Coimbatore,6,Excel,5000,B.Sc
+I211,Marketing Intern,Manufacturing,ITC,Mumbai,4,Excel,5000,Diploma
+I212,Finance Intern,Manufacturing,HDFC Bank,Coimbatore,3,Power BI,5000,Diploma
+I213,Design Intern,Banking,ITC,Bangalore,4,AutoCAD,5000,BCA
+I214,Marketing Intern,Media,HDFC Bank,Coimbatore,5,ML,5000,BA
+I215,Finance Intern,Manufacturing,ITC,Mumbai,5,Power BI,5000,B.Com
+I216,Marketing Intern,Banking,TCS,Chennai,3,SQL,5000,B.Sc
+I217,Data Analyst Intern,Manufacturing,HDFC Bank,Pune,3,Power BI,5000,BBA
+I218,Data Analyst Intern,IT & Software Development,Byju’s,Chennai,6,ML,5000,BBA
+I219,Data Analyst Intern,Healthcare,Infosys,Chennai,5,Power BI,5000,Diploma
+I220,AI Intern,Manufacturing,HDFC Bank,Pune,4,AutoCAD,5000,BCA
+I221,Marketing Intern,Manufacturing,Byju’s,Bangalore,4,SQL,5000,B.Com
+I222,Finance Intern,Banking,TCS,Hyderabad,3,Python,5000,Diploma
+I223,Data Analyst Intern,IT & Software Development,Byju’s,Chennai,5,Marketing,5000,BCA
+I224,AI Intern,Media,TCS,Hyderabad,4,ML,5000,BBA
+I225,AI Intern,IT & Software Development,Infosys,Bangalore,3,ML,5000,ITI
+I226,Design Intern,IT & Software Development,TCS,Mumbai,6,Marketing,5000,BBA
+I227,Finance Intern,Healthcare,Byju’s,Coimbatore,3,AutoCAD,5000,BBA
+I228,Finance Intern,IT & Software Development,TCS,Kolkata,5,Python,5000,Diploma
+I229,Finance Intern,Manufacturing,Byju’s,Chennai,6,Marketing,5000,B.Sc
+I230,Finance Intern,Media,HDFC Bank,Hyderabad,3,AutoCAD,5000,BCA
+I231,AI Intern,Media,TCS,Pune,3,Marketing,5000,BA
+I232,Data Analyst Intern,IT & Software Development,Byju’s,Kolkata,6,SQL,5000,BCA
+I233,Finance Intern,Manufacturing,ITC,Hyderabad,5,Python,5000,Diploma
+I234,AI Intern,Banking,Infosys,Mumbai,3,AutoCAD,5000,B.Com
+I235,Finance Intern,Banking,ITC,Bangalore,4,Power BI,5000,ITI
+I236,Design Intern,Media,Byju’s,Coimbatore,6,Power BI,5000,BBA
+I237,Marketing Intern,Manufacturing,ITC,Bangalore,5,AutoCAD,5000,BCA
+I238,Design Intern,Media,HDFC Bank,Chennai,3,Java,5000,Diploma
+I239,Design Intern,IT & Software Development,Infosys,Pune,3,Power BI,5000,Diploma
+I240,AI Intern,Banking,ITC,Pune,6,ML,5000,BA
+I241,AI Intern,IT & Software Development,ITC,Coimbatore,3,AutoCAD,5000,Diploma
+I242,Finance Intern,Media,Byju’s,Bangalore,6,SQL,5000,B.Sc
+I243,Data Analyst Intern,IT & Software Development,Byju’s,Hyderabad,5,Power BI,5000,B.Com
+I244,Design Intern,IT & Software Development,Infosys,Kolkata,4,ML,5000,B.Com
+I245,AI Intern,Healthcare,HDFC Bank,Mumbai,5,Power BI,5000,ITI
+I246,AI Intern,IT & Software Development,Infosys,Chennai,5,SQL,5000,BCA
+I247,Design Intern,Manufacturing,HDFC Bank,Coimbatore,6,Power BI,5000,BA
+I248,Design Intern,Media,ITC,Hyderabad,3,Python,5000,BA
+I249,Data Analyst Intern,Banking,Byju’s,Coimbatore,3,AutoCAD,5000,BBA
+I250,AI Intern,Healthcare,Byju’s,Bangalore,4,Python,5000,BA
+I251,Design Intern,Banking,Byju’s,Chennai,3,Excel,5000,B.Sc
+I252,Data Analyst Intern,Healthcare,TCS,Pune,6,AutoCAD,5000,BCA
+I253,AI Intern,Healthcare,Tata Motors,Bangalore,5,Python,5000,BBA
+I254,AI Intern,IT & Software Development,Tata Motors,Coimbatore,3,ML,5000,BBA
+I255,AI Intern,Healthcare,Tata Motors,Chennai,4,SQL,5000,BCA
+I256,Finance Intern,Healthcare,TCS,Coimbatore,6,Marketing,5000,ITI
+I257,Marketing Intern,Healthcare,Byju’s,Mumbai,6,Python,5000,BCA
+I258,Design Intern,Media,Infosys,Pune,5,ML,5000,BBA
+I259,Design Intern,Media,Byju’s,Kolkata,3,SQL,5000,ITI
+I260,Marketing Intern,Healthcare,TCS,Chennai,6,Excel,5000,BA
+I261,Design Intern,Healthcare,Byju’s,Kolkata,3,Java,5000,BA
+I262,AI Intern,Banking,Infosys,Pune,5,Java,5000,ITI
+I263,Finance Intern,Banking,Tata Motors,Hyderabad,4,Excel,5000,ITI
+I264,Data Analyst Intern,Banking,HDFC Bank,Kolkata,4,Excel,5000,BCA
+I265,Finance Intern,Media,Infosys,Hyderabad,6,ML,5000,B.Sc
+I266,Data Analyst Intern,IT & Software Development,Byju’s,Mumbai,4,Marketing,5000,ITI
+I267,Finance Intern,Healthcare,ITC,Bangalore,5,Python,5000,ITI
+I268,AI Intern,IT & Software Development,HDFC Bank,Kolkata,4,Excel,5000,B.Sc
+I269,AI Intern,IT & Software Development,Infosys,Coimbatore,5,Java,5000,B.Sc
+I270,Design Intern,Media,ITC,Bangalore,3,Power BI,5000,BBA
+I271,Marketing Intern,IT & Software Development,TCS,Chennai,5,Excel,5000,BCA
+I272,Design Intern,Media,Infosys,Pune,3,Marketing,5000,BBA
+I273,Finance Intern,Manufacturing,Tata Motors,Coimbatore,3,Java,5000,B.Com
+I274,Marketing Intern,IT & Software Development,ITC,Mumbai,4,AutoCAD,5000,BA
+I275,Finance Intern,IT & Software Development,Byju’s,Hyderabad,3,Excel,5000,Diploma
+I276,Finance Intern,IT & Software Development,Infosys,Coimbatore,3,AutoCAD,5000,B.Sc
+I277,Data Analyst Intern,Healthcare,HDFC Bank,Coimbatore,3,AutoCAD,5000,BA
+I278,AI Intern,Banking,Tata Motors,Chennai,5,Python,5000,BA
+I279,AI Intern,Healthcare,Byju’s,Coimbatore,3,Java,5000,Diploma
+I280,AI Intern,Healthcare,Byju’s,Chennai,3,Excel,5000,ITI
+I281,Data Analyst Intern,IT & Software Development,TCS,Pune,4,AutoCAD,5000,B.Com
+I282,Data Analyst Intern,Manufacturing,Tata Motors,Mumbai,3,SQL,5000,ITI
+I283,Finance Intern,IT & Software Development,Tata Motors,Pune,3,AutoCAD,5000,B.Sc
+I284,Data Analyst Intern,Banking,TCS,Kolkata,3,SQL,5000,ITI
+I285,Data Analyst Intern,Media,Infosys,Kolkata,6,Excel,5000,B.Sc
+I286,Marketing Intern,IT & Software Development,Infosys,Bangalore,3,SQL,5000,B.Sc
+I287,Design Intern,Healthcare,ITC,Chennai,3,Excel,5000,ITI
+I288,Design Intern,IT & Software Development,TCS,Chennai,3,Java,5000,BA
+I289,Marketing Intern,Manufacturing,Tata Motors,Chennai,5,ML,5000,BA
+I290,Design Intern,Healthcare,Infosys,Hyderabad,3,SQL,5000,B.Sc
+I291,Design Intern,Media,TCS,Chennai,4,SQL,5000,BA
+I292,Design Intern,IT & Software Development,TCS,Hyderabad,4,SQL,5000,BCA
+I293,AI Intern,Banking,Tata Motors,Kolkata,4,Python,5000,BCA
+I294,Data Analyst Intern,IT & Software Development,Byju’s,Kolkata,3,ML,5000,B.Sc
+I295,Marketing Intern,Banking,Tata Motors,Mumbai,3,Power BI,5000,BBA
+I296,Marketing Intern,IT & Software Development,Byju’s,Coimbatore,6,Power BI,5000,BCA
+I297,Design Intern,Media,ITC,Pune,6,Marketing,5000,BCA
+I298,Finance Intern,IT & Software Development,Infosys,Coimbatore,5,SQL,5000,B.Sc
+I299,Data Analyst Intern,Manufacturing,Byju’s,Mumbai,5,Power BI,5000,B.Com
+I300,AI Intern,Media,Infosys,Mumbai,6,Marketing,5000,BA
