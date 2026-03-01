@@ -23,7 +23,7 @@ Machine Learning model (Random Forest Classifier)
 
 Accuracy evaluation with confusion matrix
 
-🎯 2. Internship Recommendation
+ 2. Internship Recommendation
 
 Skill-based similarity matching
 
@@ -35,7 +35,7 @@ Weighted ranking (Skills + Education + Location)
 
 Top-K internship recommendations
 
-⚖️ 3. Bias & Fairness Audit
+ 3. Bias & Fairness Audit
 
 Demographic parity analysis
 
@@ -43,7 +43,7 @@ Eligibility distribution by college tier
 
 Automatic bias detection mechanism
 
-🛠️ Tech Stack
+ Tech Stack
 
 Python
 
@@ -61,7 +61,7 @@ Truncated SVD
 
 Matplotlib
 
-📊 Machine Learning Workflow
+ Machine Learning Workflow
 
 Data Preprocessing
 
@@ -79,15 +79,15 @@ Cosine Similarity-Based Ranking
 
 Fairness Evaluation
 
-📂 Project Structure
+ Project Structure
 ├── SIH3.py
 ├── students_300_samples.csv
 ├── internships_300_samples.csv
 └── README.md
-▶️ How to Run
+How to Run
 pip install -r requirements.txt
 streamlit run SIH3.py
-🎯 Learning Outcomes
+ Learning Outcomes
 
 Built an end-to-end ML pipeline
 
